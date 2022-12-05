@@ -13,18 +13,25 @@
   </a>
 </div>
  
-<h1 align="center">
-  Hey there!
-  <img src="https://user-images.githubusercontent.com/112728772/205510359-edc75408-8b0c-4db1-a91c-5075cb307023.gif" width="50"/>
-</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/112728772/205754918-ccc0e859-4659-4134-9a0d-bba770741388.gif" width="220"/>
+</div>
 
+---
 
-🧑🏻‍💻 About Me :
-- 👋 Hi, I'm Giovani Fonseca, I'm a Junior Full Stack Developer linving in Ireland
-- 👀 I'm a passionate about Technology, I love taking pictures, recording video and traveling the world
-- 👨🏻‍🎓 I am a Full Stack Software Developer Student at [code Institue](https://codeinstitute.net/nl/) 
-- 📫 You can reach me out on my [Linkedin](https://www.linkedin.com/in/giovanifonseca/)
+### 🧑🏻‍💻 About Me :
+- 👋 Hi, I'm Giovani Fonseca, I'm a Junior Full Stack Developer <img src="https://user-images.githubusercontent.com/112728772/205757669-232543f9-3f6f-44bc-8d32-8f90ebfed0b7.gif" width="45">  linving in Ireland.
+- 👀 I'm a passionate about Technology, I love taking pictures, recording video and traveling the world.
+- 👨🏻‍🎓 I am a Full Stack Software Developer Student at [Code Institute](https://codeinstitute.net/nl/)! 
+- 📫 You can reach me out on my [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/giovanifonseca/).
+---
+### :hammer_and_wrench: Languages & Tools:
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+</div>
 <!---
 Giov3ss/Giov3ss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
