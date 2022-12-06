@@ -28,6 +28,8 @@
 <div align="center">
   <a href="https://github.com/Giov3ss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giov3ss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giov3ss&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### :hammer_and_wrench: Languages & Tools:
 
