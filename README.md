@@ -24,6 +24,10 @@
 - 👀 I'm a passionate about Technology, I love taking pictures, recording video and traveling the world.
 - 👨🏻‍🎓 I am a Full Stack Software Developer Student at [Code Institute](https://codeinstitute.net/nl/)! 
 - 📫 You can reach me out on my [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/giovanifonseca/).
+
+<div align="center">
+  <a href="https://github.com/Giov3ss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naragurgel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 ---
 ### :hammer_and_wrench: Languages & Tools:
 
