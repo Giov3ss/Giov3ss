@@ -31,12 +31,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giov3ss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### :hammer_and_wrench: Languages & Tools:
+### :hammer_and_wrench: <h1 align="center"> Languages & Tools: </h1>
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+<div style="display: inline_block"><br>
+  <img align="center" alt="Giovani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Giovanj-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Giovani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Giovani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <!---
 Giov3ss/Giov3ss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
