@@ -29,6 +29,7 @@
   <a href="https://github.com/Giov3ss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giov3ss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giov3ss&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="http://www.github.com/Giov3ss"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Giov3ss&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
 ### <h3> :hammer_and_wrench: Languages & Tools: </h3>
