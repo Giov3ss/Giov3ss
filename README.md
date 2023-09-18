@@ -22,7 +22,7 @@
 ### 🧑🏻‍💻 About Me :
 - 👋 Hi, I'm Giovani Fonseca, I'm a Junior Full Stack Developer <img src="https://user-images.githubusercontent.com/112728772/205757669-232543f9-3f6f-44bc-8d32-8f90ebfed0b7.gif" width="45">  living in Ireland.
 - 👀 I'm a passionate about Technology, I love taking pictures, recording videos and traveling the world.
-- 👨🏻‍🎓 I am a Full Stack Software Developer Graduate at [Code Institute](https://codeinstitute.net/nl/)! 
+- 👨🏻‍🎓 I am a Full Stack Software Developer Graduated at [Code Institute](https://codeinstitute.net/nl/)! 
 - 📫 You can reach me out on my [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/giovanifonseca/).
 
 <div align="center">
