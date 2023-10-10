@@ -2,10 +2,6 @@
   <img src="https://user-images.githubusercontent.com/112728772/205510538-57a197e7-321d-48bc-bc66-e6b1dac886b4.gif" width="170"/>
 </div>
 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-Giov3ss&style=flat-square&color=blue" alt=""/>
- </div>
  
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/giovanifonseca/"> 
